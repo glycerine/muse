@@ -1,5 +1,5 @@
 # muse
-golang code to convert from go/types.Type to reflect.Types
+golang code to convert from go/types.Type to reflect.Type
 
 status: alpha quality, just a first draft. Incomplete, perhaps buggy. Needs
 tests written, polishing, hardening.
